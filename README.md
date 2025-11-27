@@ -33,7 +33,7 @@ El proyecto está estructurado de la siguiente forma:
 - Azure Digital Twin Explorer. Modelos, Gemelos, 3dScenes.
 - Conexión Event Hub con DIgital Twin utilizando una Azure Function.
 
-![Gateway LoraWAN en Raspberry Pi 5](img/Foto_Gateway.jpg)
+![Gateway LoraWAN en Raspberry Pi 5](imagenes/Foto_Gateway.jpg)
 
 
 
