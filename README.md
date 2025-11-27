@@ -20,7 +20,8 @@ El proyecto está estructurado de la siguiente forma:
 - Almacenamiento de la telemetría de los sensores en CosmosBD.
 - Interacción con CosmosDB utilizando SDK en Python.
 - Conexión Iot Hb Azure con CosmosDB con Stream Analitic Job.
-- Presenteción de la información con PowerBI.
+- Presentación de la información con PowerBI.
+- Algoritmos de IA.
 - Administración de Event Hub Name Space.
 - Creación y administracion de Event Hubs.
 - Administación de AppFuncion Plan.
@@ -31,6 +32,8 @@ El proyecto está estructurado de la siguiente forma:
 - Administración de Azure Digital Twin.
 - Azure Digital Twin Explorer. Modelos, Gemelos, 3dScenes.
 - Conexión Event Hub con DIgital Twin utilizando una Azure Function.
+
+![Gateway LoraWAN en Raspberry Pi 5](img/Foto_Gateway.jpg)
 
 
 
